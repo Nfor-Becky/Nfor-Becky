@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nfor-Becky
+- 👋 Hello, I’m @Nfor-Becky
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on projects
